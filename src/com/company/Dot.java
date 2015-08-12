@@ -23,7 +23,7 @@ public class Dot {
       System.out.println(s);
         System.out.println("TEst");
 
-
+        System.out.println("new line");
 
 
 
